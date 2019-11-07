@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLTnya.xsl"?>
+<menu>
+		<motor>
+			<Merk>Yamaha</Merk>
+			<Nama>Nmax</Nama>
+			<Jenis>Matic</Jenis>
+			<Ukuranmesin>150CC</Ukuranmesin>
+			<Jenisban>FDR</Jenisban>
+			<Jenisrem>Showa</Jenisrem>
+		</motor>
+		<motor>
+			<Merk>Suzuki</Merk>
+			<Nama>GSX-R150</Nama>
+			<Jenis>Sport</Jenis>
+			<Ukuranmesin>150CC</Ukuranmesin>
+			<Jenisban>Dunlop</Jenisban>
+			<Jenisrem>Nissn</Jenisrem>
+		</motor>
+		<motor>
+			<Merk>Kawasaki</Merk>
+			<Nama>Ninja Warrior</Nama>
+			<Jenis>Sport</Jenis>
+			<Ukuranmesin>250CC</Ukuranmesin>
+			<Jenisban>Dunlop</Jenisban>
+			<Jenisrem>Nissn</Jenisrem>
+		</motor>
+		<motor>
+			<Merk>Honda</Merk>
+			<Nama>Beat</Nama>
+			<Jenis>Matic</Jenis>
+			<Ukuranmesin>110CC</Ukuranmesin>
+			<Jenisban>FDR</Jenisban>
+			<Jenisrem>Showa</Jenisrem>
+		</motor>
+		
+</menu>
