@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+			 xmlns:cb="http://www.motor.id/cb#">
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor">
+		<cb:memiliki>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/merk"/>
+		</cb:memiliki>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor">
+		<cb:memiliki>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/nama"/>
+		</cb:memiliki>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor">
+		<cb:memiliki>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/jenis motor"/>
+		</cb:memiliki>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor">
+		<cb:memiliki>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/tipe mesin"/>
+		</cb:memiliki>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor">
+		<cb:memiliki>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/jenis rem"/>
+		</cb:memiliki>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor">
+		<cb:memiliki>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/jenis ban"/>
+		</cb:memiliki>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/merk">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Honda"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/merk">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Yamaha"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/merk">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Kawasaki"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/merk">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/BMW"/>
+		</cb:seperti>
+	</rdf:Description>
+
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/nama">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Nmax"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/nama">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Vario"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/nama">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Ninja"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/nama">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/S 1000 RR"/>
+		</cb:seperti>
+	</rdf:Description>
+
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis motor">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Manual"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis motor">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Matic"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis motor">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/Sport"/>
+		</cb:seperti>
+	</rdf:Description>
+
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/tipe mesin">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/tipe inline"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/tipe mesin">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/tipe V"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/tipe mesin">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/tipe boxer"/>
+		</cb:seperti>
+	</rdf:Description>
+
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis rem">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/rem mekanik"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis rem">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/rem hidrolik"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis rem">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/rem tromol"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis rem">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/rem cakram"/>
+		</cb:seperti>
+	</rdf:Description>
+
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis ban">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/ban sport"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis ban">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/ban cruiser"/>
+		</cb:seperti>
+	</rdf:Description>
+
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis ban">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/ban scooter"/>
+		</cb:seperti>
+	</rdf:Description>
+
+	<rdf:Description
+		rdf:about="http://www.motor.id/cb/Motor/jenis ban">
+		<cb:seperti>
+			<rdf:Description rdf:about="http://www.motor.id/cb/Motor/ban offroad"/>
+		</cb:seperti>
+	</rdf:Description>
+
+</rdf:RDF>
