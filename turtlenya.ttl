@@ -1,0 +1,45 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix cb: <http://www.motor.id/cb#> .
+
+<http://www.motor.id/cb/Motor>
+        cb:memiliki <http://www.motor.id/cb/Motor/jenisban> , 
+		    <http://www.motor.id/cb/Motor/jenisrem> , 
+		    <http://www.motor.id/cb/Motor/tipemesin> , 
+		    <http://www.motor.id/cb/Motor/jenismotor> , 
+		    <http://www.motor.id/cb/Motor/nama> , 
+		    <http://www.motor.id/cb/Motor/merk> .
+
+<http://www.motor.id/cb/Motor/tipemesin>
+        cb:seperti  <http://www.motor.id/cb/Motor/tipeboxer> , 
+		    <http://www.motor.id/cb/Motor/tipeV> , 
+		    <http://www.motor.id/cb/Motor/tipeinline> .
+
+<http://www.motor.id/cb/Motor/jenismotor>
+        cb:seperti  <http://www.motor.id/cb/Motor/Sport> , 
+		    <http://www.motor.id/cb/Motor/Matic> , 
+		    <http://www.motor.id/cb/Motor/Manual> .
+
+<http://www.motor.id/cb/Motor/jenisban>
+        cb:seperti  <http://www.motor.id/cb/Motor/banoffroad> , 
+		    <http://www.motor.id/cb/Motor/banscooter> , 
+		    <http://www.motor.id/cb/Motor/bancruiser> , 
+		    <http://www.motor.id/cb/Motor/bansport> .
+
+
+<http://www.motor.id/cb/Motor/jenisrem>
+        cb:seperti  <http://www.motor.id/cb/Motor/remcakram> , 
+		    <http://www.motor.id/cb/Motor/remtromol> , 
+		    <http://www.motor.id/cb/Motor/remhidrolik> , 
+	            <http://www.motor.id/cb/Motor/remmekanik> .
+
+<http://www.motor.id/cb/Motor/merk>
+        cb:seperti  <http://www.motor.id/cb/Motor/BMW> , 
+		    <http://www.motor.id/cb/Motor/Kawasaki> , 
+		    <http://www.motor.id/cb/Motor/Yamaha> , 
+		    <http://www.motor.id/cb/Motor/Honda> .
+
+<http://www.motor.id/cb/Motor/nama>
+        cb:seperti  <http://www.motor.id/cb/Motor/S1000RR> , 
+		    <http://www.motor.id/cb/Motor/Ninja> , 
+		    <http://www.motor.id/cb/Motor/Vario> , 
+		    <http://www.motor.id/cb/Motor/Nmax> .
